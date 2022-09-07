@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetourPoo", "RetourPoo\RetourPoo.csproj", "{DC6A56B7-C090-4A4B-80BA-FB6FF79EF008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetourPooTest", "RetourPooTest\RetourPooTest.csproj", "{F217E891-B22B-43D3-9720-E15D55BBCDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6A56B7-C090-4A4B-80BA-FB6FF79EF008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6A56B7-C090-4A4B-80BA-FB6FF79EF008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6A56B7-C090-4A4B-80BA-FB6FF79EF008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6A56B7-C090-4A4B-80BA-FB6FF79EF008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F217E891-B22B-43D3-9720-E15D55BBCDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F217E891-B22B-43D3-9720-E15D55BBCDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F217E891-B22B-43D3-9720-E15D55BBCDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F217E891-B22B-43D3-9720-E15D55BBCDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F67349-CC97-4625-BA47-7D8A5AD06055}
+	EndGlobalSection
+EndGlobal

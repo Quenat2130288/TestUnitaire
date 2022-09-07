@@ -1,0 +1,45 @@
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.AssemblyReference.cache
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfoInputs.cache
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfo.cs
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.CoreCompileInputs.cache
+C:\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.exe
+C:\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.deps.json
+C:\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.runtimeconfig.json
+C:\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.dll
+C:\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.pdb
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.dll
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\refint\RetourPoo.dll
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.pdb
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.genruntimeconfig.cache
+C:\RetourPoo\RetourPoo\obj\Debug\net6.0\ref\RetourPoo.dll
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.exe
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.deps.json
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.runtimeconfig.json
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.dll
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.pdb
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.AssemblyReference.cache
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.GeneratedMSBuildEditorConfig.editorconfig
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfoInputs.cache
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfo.cs
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.CoreCompileInputs.cache
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.dll
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\refint\RetourPoo.dll
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.pdb
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.genruntimeconfig.cache
+M:\Session 3\Web 3\Retour POO\RetourPoo\RetourPoo\obj\Debug\net6.0\ref\RetourPoo.dll
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.exe
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.deps.json
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.runtimeconfig.json
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.dll
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.pdb
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.AssemblyReference.cache
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.GeneratedMSBuildEditorConfig.editorconfig
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfoInputs.cache
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfo.cs
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.CoreCompileInputs.cache
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.dll
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\refint\RetourPoo.dll
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.pdb
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.genruntimeconfig.cache
+M:\Session 3\Web 3\RetourPoo + Test\RetourPoo\RetourPoo\obj\Debug\net6.0\ref\RetourPoo.dll
